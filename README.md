@@ -73,5 +73,10 @@ Requires files from application directory.
 4. Open a pull request, and reference the initial issue in the pull request
    message.
 
+## Changelog
+
+### `1.0.0`
+ - Initial stable release
+
 ## License
 See the [LICENSE](./LICENSE) file.
