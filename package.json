@@ -1,0 +1,25 @@
+{
+  "name": "mono-tools",
+  "version": "1.0.0-alpha",
+  "description": "Util tools for Mono framework developed at jillix.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jillix/node-mono-tools.git"
+  },
+  "keywords": [
+    "mono",
+    "jillix",
+    "utils",
+    "tools"
+  ],
+  "author": "jillix <contact@jillix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jillix/node-mono-tools/issues"
+  },
+  "homepage": "https://github.com/jillix/node-mono-tools"
+}
