@@ -1,6 +1,6 @@
 {
   "name": "mono-tools",
-  "version": "1.0.1-alpha",
+  "version": "1.0.0",
   "description": "Util tools for Mono framework developed at jillix.",
   "main": "lib/index.js",
   "scripts": {
